@@ -39,10 +39,13 @@ Der Datenschutz schützt nicht die Verwendung von Daten, sondern das Recht welch
 ## Grundsätze
 ### Verbot mit Erlaubnisvorbehalt 
 Nutzung personenbezogener Daten ist nur dann erlaubt wenn die betroffene Person dies einwilligt 
+ -> Schüler darf man nicht Zwingen teilzunehmen oder ihre Daten dort ohne ihre Zustimmung hinterlegen
 ### Datensparsamkeit
 Es dürfen nur so viele Daten verlangt und verarbeitet werden wie benötigt
+ -> Nur unbedngt notwendige Daten dürfen dort landen (keine Videoüberwachung, keine Noten)
 ### Zweckbindung
 Die Daten dürfen nur zu dem Zweck, welcher in der Datenschutzerklärung steht verwendet werden.
+ -> Daten dürfen nur dem Zwiécke des Kursbuches verwendet werden: keine Nutzeranalyse
 ### Datenrichtigkeit 
 Daten müssen inhaltlich, richtig und aktuell gehalten werden
 ### Datensicherheit 
