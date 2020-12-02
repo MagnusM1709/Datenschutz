@@ -36,6 +36,21 @@ Welche Daten müssen gespeichert werden / Welche Daten sind nur "nice to have"
 # Datenschutz
 
 Der Datenschutz schützt nicht die Verwendung von Daten, sondern das Recht welches Beschreibt, wie (personenbezogene) Daten erhoben, Verarbeitet und Gespeichert werden.
+## Grundsätze
+- Verbot mit Erlaubnisvorbehalt 
+	- Nutzung personenbezogener Daten ist nur dann erlaubt wenn die betroffene Person dies einwilligt 
+- Datensparsamkeit
+	- Es dürfen nur so viele Daten verlangt und verarbeitet werden wie benötigt
+- Zweckbindung
+	- Die Daten dürfen nur zu dem Zweck, welcher in der Datenschutzerklärung steht verwendet werden.
+- Datenrichtigkeit 
+	- Daten müssen inhaltlich, richtig und aktuell gehalten werden
+- Datensicherheit 
+- Recht auf „Vergessenwerden“ (Recht auf Löschung)
+	- Das Recht darauf dass die Daten einer Person gelöscht oder gesperrt werden müssen, wenn keine Berechtigung mehr zur Verwendung der Daten mehr vorliegt
+- Recht auf Datenübertragbarkeit
+	- Die personbezogenen Daten dürfen z.B. bei einem Wechsel des Anbieters an den neuen Anbieter weitergegeben werden.
+- Rechenschaftspflicht
 
 ## Quelle
 
