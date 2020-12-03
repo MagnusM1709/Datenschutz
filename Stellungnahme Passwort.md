@@ -7,7 +7,7 @@ Der Passwort Zugang sichert die Daten vor unautoriesiertem Zugriff, da dass Pass
 Das sichere Gefühle, dass durch ein Passwortzugriff erreicht wird, ist für viele Schüler bereits ausriechend. Jedoch ist eine gefühlte Sicherheit nicht echte Sicherheit. 
 
 Auch das Argument, dass die Personenbezogene Daten nur von geringer Bedeutung sind ist falsch. Denn wenn personenbezogene Daten an die Öffentlichkeit gelangen kann sich eine immenser Schaden für den Schüler auftun. 
-Fehlverhalten der Schüler die abgespeichert werden können bei der Berufswahl schädigend sein, wenn der Arbeitgeber erfährt das ein Schüler sich in der Schule schlecht benommen hat, obwohl das verhalten von Schülern in der Schule nur wenig über das Verhalten von Schülern im späteren Arbeitsleben.
+Fehlverhalten der Schüler die abgespeichert werden können bei der Berufswahl schädigend sein, wenn der Arbeitgeber erfährt das ein Schüler sich in der Schule schlecht benommen hat, obwohl das verhalten von Schülern in der Schule nur wenig über das Verhalten von Schülern im späteren Arbeitsleben aussagt.
 
 Da über einen Passwort zugriff auf alle Daten nicht mehr die Zweckbindung garantiert werden kann (wenn z. B. Helikoptereltern aufgrund der Daten Freundschaften verbieten, wenn ein Mitschüler ein vermeintlich schlechter Einfluss ist), muss mindestens ein personenbezogener Zugang errichtet werden, wo Schüler nur ihre eigenen Daten auslesen können.
 
