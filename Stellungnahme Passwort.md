@@ -1,4 +1,4 @@
-#Digitales Kursbuch
+# Digitales Kursbuch
 
 Die These, die die Elternvertreter aufgestellt haben, dass die Persönlichen Daten durch ein Passwort alleine gut gesichert sind ist nicht mit Argumenten untermauert worden. Im folgenden werde ich Pro- und Contraargumente nennen und evaluieren ob diese These haltbar ist.
 
