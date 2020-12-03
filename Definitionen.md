@@ -49,12 +49,14 @@ Die Daten dürfen nur zu dem Zweck, welcher in der Datenschutzerklärung steht v
 ### Datenrichtigkeit 
 Daten müssen inhaltlich, richtig und aktuell gehalten werden
 ### Datensicherheit 
+-> Sicherheit der Daten muss durch aktuelle Verschlüsselung gewährleistung
 ### Recht auf „Vergessenwerden“ (Recht auf Löschung)
 Das Recht darauf dass die Daten einer Person gelöscht oder gesperrt werden müssen, wenn keine Berechtigung mehr zur Verwendung der Daten mehr vorliegt
+-> Nicht mehr Benötigte Daten (z.B. letztes Schuljahr) müssen auf antrag des Schülers gelöscht werden
 ### Recht auf Datenübertragbarkeit
 Die personbezogenen Daten dürfen z.B. bei einem Wechsel des Anbieters an den neuen Anbieter weitergegeben werden.
 ### Rechenschaftspflicht
-
+-> Herausgabe aller Personenbezogenen Daten auf Antrag
 ## Quelle
 
 https://www.security-insider.de/was-ist-datenschutz-a-604115/
